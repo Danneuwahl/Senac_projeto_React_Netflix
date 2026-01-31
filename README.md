@@ -25,6 +25,7 @@ Design inspirado no app da Netflix
 
 📂 Estrutura do projeto
 
+README.md
 /src
   /components
   /screens
@@ -33,7 +34,7 @@ Design inspirado no app da Netflix
   /assets
   /utils
 App.js
-README.md
+
 
 📌 Objetivo do Trabalho
 Este projeto foi desenvolvido com propósito de:
